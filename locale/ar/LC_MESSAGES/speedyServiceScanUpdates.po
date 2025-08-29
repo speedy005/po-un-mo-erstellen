@@ -1,0 +1,112 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: speedyServiceScanUpdates\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-29 11:47\n"
+"PO-Revision-Date: \n"
+"Last-Translator: speedy005\n"
+"Language-Team: speedy005\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.6\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SearchPath-0: speedyServiceScanUpdates.pot\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Setup"
+msgstr "يثبت"
+
+msgid "speedyServiceScanUpdates"
+msgstr "speedyServicesCanupdates"
+
+msgid "Updates during service scan"
+msgstr "التحديثات أثناء فحص الخدمة"
+
+msgid "v %s"
+msgstr "v ٪ s"
+
+msgid "Cancel"
+msgstr "يلغي"
+
+msgid "Save"
+msgstr "يحفظ"
+
+msgid "Restore Default"
+msgstr "استعادة الافتراضي"
+
+msgid "Update"
+msgstr "تحديث"
+
+msgid "Configure the update options."
+msgstr "تكوين خيارات التحديث."
+
+msgid "Add new TV services"
+msgstr "أضف خدمات تلفزيونية جديدة"
+
+msgid "Create 'Service Scan Updates' bouquet for new TV services?"
+msgstr "إنشاء باقة \"تحديثات Service Scane\" لخدمات التلفزيون الجديدة؟"
+
+msgid "Add new radio services"
+msgstr "أضف خدمات إذاعية جديدة"
+
+msgid "Create 'Service Scan Updates' bouquet for new radio services?"
+msgstr "إنشاء باقة \"تحديثات مسح الخدمة\" لخدمات الراديو الجديدة؟"
+
+msgid "Clear bouquet at each search"
+msgstr "مسح باقة في كل بحث"
+
+msgid ""
+"Empty the 'Service Scan Updates' bouquet on every scan, otherwise the new "
+"services will be appended?"
+msgstr ""
+"تفريغ باقة \"تحديثات Service Scan Updates\" على كل فحص ، وإلا سيتم إلحاق "
+"الخدمات الجديدة؟"
+
+msgid "Default settings restored!"
+msgstr "الإعدادات الافتراضية المستعادة!"
+
+msgid "Update screen not available."
+msgstr "تحديث الشاشة غير متوفرة."
+
+msgid "Changes saved!"
+msgstr "التغييرات المحفوظة!"
+
+msgid "ServiceScanUpdates"
+msgstr "ServicesCanupdates"
+
+msgid "Download and install Service Scan Updates"
+msgstr "قم بتنزيل تحديثات مسح الخدمة وتثبيتها"
+
+msgid "Configure Service Scan Updates"
+msgstr "تكوين تحديثات فحص الخدمة"
+
+msgid "Ready"
+msgstr "مستعد"
+
+msgid "Exit"
+msgstr "مخرج"
+
+msgid "Start"
+msgstr "يبدأ"
+
+msgid "Check Update"
+msgstr "تحقق من التحديث"
+
+msgid "Update canceled"
+msgstr "تم إلغاء التحديث"
+
+msgid "Error: speedyServiceScanUpdates folder not found."
+msgstr "خطأ: لم يتم العثور على مجلد SpeedyServicesCanupDates."
+
+msgid "Update completed successfully."
+msgstr "تم الانتهاء من التحديث بنجاح."
+
+msgid "Update finished. Restart GUI?"
+msgstr "انتهى التحديث. "
+
+msgid "Update could not be completed."
+msgstr "لا يمكن إكمال التحديث."

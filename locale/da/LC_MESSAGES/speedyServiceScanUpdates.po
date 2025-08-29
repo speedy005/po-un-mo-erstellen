@@ -1,0 +1,112 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: speedyServiceScanUpdates\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-29 11:47\n"
+"PO-Revision-Date: \n"
+"Last-Translator: speedy005\n"
+"Language-Team: speedy005\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.6\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SearchPath-0: speedyServiceScanUpdates.pot\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Setup"
+msgstr "Opsætning"
+
+msgid "speedyServiceScanUpdates"
+msgstr "SpeedyServicesCanupdates"
+
+msgid "Updates during service scan"
+msgstr "Opdateringer under servicescanning"
+
+msgid "v %s"
+msgstr "v %s"
+
+msgid "Cancel"
+msgstr "Ophæve"
+
+msgid "Save"
+msgstr "Spare"
+
+msgid "Restore Default"
+msgstr "Gendan standard"
+
+msgid "Update"
+msgstr "Opdatering"
+
+msgid "Configure the update options."
+msgstr "Konfigurer opdateringsindstillingerne."
+
+msgid "Add new TV services"
+msgstr "Tilføj nye tv -tjenester"
+
+msgid "Create 'Service Scan Updates' bouquet for new TV services?"
+msgstr "Opret 'Service Scan Updates' buket til nye tv -tjenester?"
+
+msgid "Add new radio services"
+msgstr "Tilføj nye radiostjenester"
+
+msgid "Create 'Service Scan Updates' bouquet for new radio services?"
+msgstr "Opret 'Service Scan Updates' buket til nye radiostjenester?"
+
+msgid "Clear bouquet at each search"
+msgstr "Klar buket ved hver søgning"
+
+msgid ""
+"Empty the 'Service Scan Updates' bouquet on every scan, otherwise the new "
+"services will be appended?"
+msgstr ""
+"Tøm buketten 'Service Scan -opdateringer' på hver scanning, ellers vil de "
+"nye tjenester blive vedhæftet?"
+
+msgid "Default settings restored!"
+msgstr "Standardindstillinger gendannet!"
+
+msgid "Update screen not available."
+msgstr "Opdateringsskærmen ikke tilgængelig."
+
+msgid "Changes saved!"
+msgstr "Ændringer gemt!"
+
+msgid "ServiceScanUpdates"
+msgstr "Servicescanupdates"
+
+msgid "Download and install Service Scan Updates"
+msgstr "Download og installer service scanningsopdateringer"
+
+msgid "Configure Service Scan Updates"
+msgstr "Konfigurer servicescanningsopdateringer"
+
+msgid "Ready"
+msgstr "Parat"
+
+msgid "Exit"
+msgstr "Udgang"
+
+msgid "Start"
+msgstr "Starte"
+
+msgid "Check Update"
+msgstr "Tjek opdatering"
+
+msgid "Update canceled"
+msgstr "Opdatering annulleret"
+
+msgid "Error: speedyServiceScanUpdates folder not found."
+msgstr "Fejl: SpeedyServicesCanupDates -mappen findes ikke."
+
+msgid "Update completed successfully."
+msgstr "Opdatering afsluttet med succes."
+
+msgid "Update finished. Restart GUI?"
+msgstr "Opdatering færdig. "
+
+msgid "Update could not be completed."
+msgstr "Opdatering kunne ikke afsluttes."
